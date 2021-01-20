@@ -1,2 +1,4 @@
 # BitcoinGARCH
-Project in Statistics: Timeseries analysis (STAH14) at Lund University. The project it about Bitcoin price and returns, modelled using an AR-GARCH model. 
+Project in Statistics: Timeseries analysis (STAH14) at Lund University. The project is about the price and returns of Bitcoin, modelled using an AR(1)-GARCH(1,1).
+
+Data is collected from https://www.coindesk.com/price/bitcoin
