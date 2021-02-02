@@ -9,6 +9,6 @@ The most suitable ARIMA model is found by an algorithm based on Akaike informati
 
 Data for closing price and returns are tested for stationarity and presence of ARCH-effects.
 
-AR-GARCH model for returns show the best fit while closing price model is acceptable. 
+AR-GARCH model for returns show the best fit while closing price AR-GARCH model is acceptable. 
 
 Finally a rolling-forecast is used to predict the last 50 days of the series. Forecasting one day ahead and refitting model every five days.
